@@ -12,7 +12,7 @@ Hence, if you desire to use this to generate good slogans, at least generate mor
 The python file provided would need to be copy-pasted into a new project, 
 and the libraries in the file need to be installed.
 To do this, create a project in your desired IDE (I used Intellij as the IDE)
-and download the libraries that error in the python files.
+and download the libraries that error in the python file.
 Notably, the keras library may error even after installing, suggesting it's not installed,
 but the program will still successfully run, despite the error still appearing. I am
 unsure why this happens, at least on my computer, but the program still works fine.
