@@ -6,9 +6,6 @@ to help them generate catchy slogans. Another python program was used to scrape
 I do not have permission to share that code (main.py was also different to the provided
 code, in that it also collected data from the file of slogans).
 
-I have provided a small dataset of slogans, but this will produce poor results.
-Hence, if you desire to use this to generate good slogans, at least generate more data.
-
 The python file provided would need to be copy-pasted into a new project, 
 and the libraries in the file need to be installed.
 To do this, create a project in your desired IDE (I used Intellij as the IDE)
